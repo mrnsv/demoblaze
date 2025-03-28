@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SeleniumTestSuite">
+    <test name="ProductPurchaseTest">
+        <classes>
+            <class name="com.demoblaze.automation.ProductPurchaseTest"/>
+        </classes>
+    </test>
+</suite>

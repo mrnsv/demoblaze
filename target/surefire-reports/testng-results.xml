@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-29T00:42:34 IST" name="SeleniumTestSuite" finished-at="2025-03-29T00:42:53 IST" duration-ms="19296">
+    <groups>
+    </groups>
+    <test started-at="2025-03-29T00:42:34 IST" name="ProductPurchaseTest" finished-at="2025-03-29T00:42:53 IST" duration-ms="19296">
+      <class name="com.demoblaze.automation.ProductPurchaseTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.demoblaze.automation.ProductPurchaseTest@37864b77]" started-at="2025-03-29T00:42:34 IST" name="setUp" finished-at="2025-03-29T00:42:39 IST" duration-ms="5480" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testProductPurchase()[pri:1, instance:com.demoblaze.automation.ProductPurchaseTest@37864b77]" started-at="2025-03-29T00:42:39 IST" name="testProductPurchase" finished-at="2025-03-29T00:42:53 IST" duration-ms="13392" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testProductPurchase -->
+        <test-method is-config="true" signature="captureFailureScreenshot(org.testng.ITestResult)[pri:0, instance:com.demoblaze.automation.ProductPurchaseTest@37864b77]" started-at="2025-03-29T00:42:53 IST" name="captureFailureScreenshot" finished-at="2025-03-29T00:42:53 IST" duration-ms="3" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testProductPurchase status=SUCCESS method=ProductPurchaseTest.testProductPurchase()[pri:1, instance:com.demoblaze.automation.ProductPurchaseTest@37864b77] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureFailureScreenshot -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.demoblaze.automation.ProductPurchaseTest@37864b77]" started-at="2025-03-29T00:42:53 IST" name="tearDown" finished-at="2025-03-29T00:42:53 IST" duration-ms="391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.demoblaze.automation.ProductPurchaseTest -->
+    </test> <!-- ProductPurchaseTest -->
+  </suite> <!-- SeleniumTestSuite -->
+</testng-results>
